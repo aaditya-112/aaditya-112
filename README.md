@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Hi, I’m Aaditya koundal > I’m a Full-Stack Developer passionate about building scalable web applications and solving complex problems with elegant code.<br>🔭 Currently working on: "streamfy " , a language exchange web app.<br><br>🌱 Learning: react , mongo, node, express<br><br>💬 Ask me about:  React, mongo, node, express, html, css, java script<br><br>📫 How to reach me: adityakoundal228@gmail.com
 
@@ -14,7 +12,16 @@ Hi, I’m Aaditya koundal > I’m a Full-Stack Developer passionate about buildi
 ![](https://nirzak-streak-stats.vercel.app/?user=aaditya-112&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya-112&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aaditya-112&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aaditya-112&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aaditya-112&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
